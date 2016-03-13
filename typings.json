@@ -1,0 +1,5 @@
+{
+    "name": "password-generator",
+    "main": "node.d.ts",
+    "browser": "browser.d.ts"
+}
