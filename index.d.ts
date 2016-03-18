@@ -1,4 +1,4 @@
-﻿// Type definitions for password-generator v0.2.2
+﻿// Type definitions for password-generator v2.0.2
 // Project: https://github.com/bermi/password-generator
 // Definitions by: Maxime LUCE <https://github.com/SomaticIT>
 // Definitions: https://github.com/typed-contrib/password-generator
